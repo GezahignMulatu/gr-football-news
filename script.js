@@ -5,7 +5,7 @@ displayNews();
 function addNews(){
 
 let title = document.getElementById("title").value;
-let content = document.getElementById("").valuapify/website-content-crawlere;
+let content = document.getElementById("apify/website-content-crawler").valuapify/website-content-crawlere;
 
 if(title === "" || content === ""){
 alert("Please enter news title and content");
